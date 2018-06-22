@@ -1,0 +1,57 @@
+body {
+    /* USE HEX #999999 OR rgb */
+    /* background-color: rgb(239, 136, 229); */
+    background: url('https://www.pets4homes.co.uk/images/articles/4295/large/early-neutering-of-kittens-pros-and-cons-598ddb68021a9.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+
+#page-title {
+    color: rgb(255,255,255);
+    font-size: 100px;
+    /* font-size: 1em; */
+    font-family: fantasy;
+}
+
+.red {
+    background-color: rgb(21, 15, 15);
+    color: red;
+}
+
+div {
+    height: 100px;
+    width: 100px;
+    /* background-color: red; */
+    /* margin-top: 5px;
+    margin-bottom: 5px; */
+    /* margin: top right bottom left; */
+    margin: 10px 0;
+}
+
+.square {
+    background-color: blue;
+    /* border: border-width border-style border-color; */
+    border: 5px solid green;
+}
+
+.circle {
+    border-radius: 50%;
+    border: 3px solid black;
+}
+
+.text-container {
+    height: 200px;
+    width: 100%;
+    background-color: white;
+}
+
+/* div.text-container {
+    background-color: blue;
+}
+
+body div.text-container {
+    background-color: green;
+} */
+
+/* .text-container .my-text {
+    color: red;
+} */

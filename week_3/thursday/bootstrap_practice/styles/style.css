@@ -1,0 +1,22 @@
+.div-1 {
+    background-color: green;
+    height: 100%;
+}
+
+.div-2 {
+    background-color: blue;
+    height: 100%;
+}
+
+.div-3 {
+    background-color: magenta;
+    height: 100%;
+}
+
+.my-form {
+    height: 200px;
+    width: 200px;
+    justify-content: space-between;
+    display: flex;
+    flex-direction: column;
+}
